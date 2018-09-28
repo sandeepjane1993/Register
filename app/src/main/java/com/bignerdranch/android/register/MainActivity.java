@@ -5,7 +5,11 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
+    /**
+     * Comments from chidi: this code runs well without problems.
+     * @param savedInstanceState
+     * Another commit
+     */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
